@@ -11,4 +11,4 @@
 - Tramite un form, dare la possibilità all’utente di aggiungere un disco dall’elenco.
 
 > ## Ecco uno screenshot d'esempio di come potrebbe risultare l'applicazione finale
-<img src="./img/immagine-dischi-php.png" alt="Immagine">
+<img src="./screenshot/immagine-dischi-php.png" alt="Immagine">
