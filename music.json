@@ -2,50 +2,57 @@
     {
         "titolo": "Andavo a cento all'ora",
         "artista": "Gianni Morandi",
-        "cover": "img/gianni-morandi.png",
+        "cover": "img\/gianni-morandi.png",
         "anno": "1962",
         "genere": "Pop"
     },
     {
         "titolo": "Mamma",
         "artista": "Luciano Pavarotti",
-        "cover": "img/luciano-pavarotti.png",
+        "cover": "img\/luciano-pavarotti.png",
         "anno": "1984",
         "genere": "Musica classica"
     },
     {
         "titolo": "Nord sud ovest est",
         "artista": "883",
-        "cover": "img/max-pezzali.png",
+        "cover": "img\/max-pezzali.png",
         "anno": "1983",
         "genere": "Pop"
     },
     {
         "titolo": "Mi spendo tutto",
-        "artista": "Raffaella Carrà",
-        "cover": "img/Mi_Spendo_Tutto_Raffaella_Carrà.jpg",
+        "artista": "Raffaella Carr\u00e0",
+        "cover": "img\/Mi_Spendo_Tutto_Raffaella_Carr\u00e0.jpg",
         "anno": "1980",
         "genere": "Pop"
     },
     {
         "titolo": "Nel mondo, una cosa",
         "artista": "Mia Martini",
-        "cover": "img/mia-martini.png",
+        "cover": "img\/mia-martini.png",
         "anno": "1972",
         "genere": "Musica leggera"
     },
     {
         "titolo": "Incontro",
         "artista": "Patty Pravo",
-        "cover": "img/patty-pravo-incontro.jpg",
+        "cover": "img\/patty-pravo-incontro.jpg",
         "anno": "1975",
         "genere": "Pop"
     },
     {
         "titolo": "Hollywood Hollywood",
         "artista": "Roberto Vecchioni",
-        "cover": "img/roberto-vecchioni.png",
+        "cover": "img\/roberto-vecchioni.png",
         "anno": "1982",
         "genere": "Pop"
+    },
+    {
+        "titolo": "E penso a te",
+        "artista": "Ricchi e Poveri",
+        "anno": "1981",
+        "genere": "Pop",
+        "cover": "ricchi-e-poveri.png"
     }
 ]

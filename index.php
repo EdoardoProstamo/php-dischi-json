@@ -17,6 +17,7 @@ require_once('./function.php');
     <header class="py-5 text-center text-white" style="background: linear-gradient(135deg, #4a90e2, #50e3c2);">
         <h1 class="display-4 fw-bold">La tua playlist</h1>
         <p class="lead">Scopri gli album più belli in un unico posto</p>
+        <a href="form.php">Aggiungi il tuo album</a>
     </header>
     <main class="bg-light py-5">
         <div class="container">
