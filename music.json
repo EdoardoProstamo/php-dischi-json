@@ -1,57 +1,50 @@
 [
     {
-        "titolo": "Questo piccolo grande amore",
-        "artista": "Claudio Baglioni",
-        "cover": "claudio-baglioni.png",
-        "anno": "1972",
-        "genere": "Pop"
-    },
-    {
         "titolo": "Andavo a cento all'ora",
         "artista": "Gianni Morandi",
-        "cover": "gianni-morandi.png",
+        "cover": "img/gianni-morandi.png",
         "anno": "1962",
         "genere": "Pop"
     },
     {
         "titolo": "Mamma",
         "artista": "Luciano Pavarotti",
-        "cover": "luciano-pavarotti.png",
+        "cover": "img/luciano-pavarotti.png",
         "anno": "1984",
         "genere": "Musica classica"
     },
     {
         "titolo": "Nord sud ovest est",
         "artista": "883",
-        "cover": "max-pezzali.png",
+        "cover": "img/max-pezzali.png",
         "anno": "1983",
         "genere": "Pop"
     },
     {
         "titolo": "Mi spendo tutto",
         "artista": "Raffaella Carrà",
-        "cover": "Mi_Spendo_Tutto_Raffaella_Carrà.jpg",
+        "cover": "img/Mi_Spendo_Tutto_Raffaella_Carrà.jpg",
         "anno": "1980",
         "genere": "Pop"
     },
     {
         "titolo": "Nel mondo, una cosa",
         "artista": "Mia Martini",
-        "cover": "mia-martini.png",
+        "cover": "img/mia-martini.png",
         "anno": "1972",
         "genere": "Musica leggera"
     },
     {
         "titolo": "Incontro",
         "artista": "Patty Pravo",
-        "cover": "patty-pravo-incontro.jpg",
+        "cover": "img/patty-pravo-incontro.jpg",
         "anno": "1975",
         "genere": "Pop"
     },
     {
         "titolo": "Hollywood Hollywood",
         "artista": "Roberto Vecchioni",
-        "cover": "roberto-vecchioni.png",
+        "cover": "img/roberto-vecchioni.png",
         "anno": "1982",
         "genere": "Pop"
     }
